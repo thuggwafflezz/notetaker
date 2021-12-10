@@ -23,13 +23,10 @@ The biggest challenge of making this application was connecting the front end ja
 To use this application visit the following link:  
 [Note Taker App](https://note-taker-23458.herokuapp.com/)  
 Once there simply add a note title, and a note description, then click the save icon to save the note. To delete a note click the red trash can.
-## Preview
-![preview1](https://github.com/mrogers23458/Note-Taker/blob/master/Assets/demo1.png)
-![preview2](https://github.com/mrogers23458/Note-Taker/blob/master/Assets/demo1.png)
+
 ## License
 **Note: This project is covered under MIT**
 
-
 ## Questions
-  github.com/mrogers23458/  
-  mrogers23458@gmail.com
+javierldelcid@gmail.com
+https://github.com/thuggwafflezz/notetaker
